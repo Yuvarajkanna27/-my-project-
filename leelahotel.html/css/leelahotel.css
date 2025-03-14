@@ -1,0 +1,421 @@
+.navbar-brand{
+	margin:0 0 0 100px;
+}
+.nav1{
+	position:relative;
+	z-index:1;
+	width:100%;
+}
+.collapse{
+	margin:20px 0 0 400px;
+	font-size:18px;
+	font-family:Wasted Vindey;
+	letter-spacing:0.8px;
+	color:#545554;
+}
+.dropdown-menu>li>a:hover{
+	color:#dd851e !important;
+}
+.bo{
+	background-color:#dd861f;
+	padding:7px 0 7px 0;
+	margin:0 0 0 0;
+	color:white;
+}
+.ho{
+	list-style-type: none;
+}
+.ta{
+	padding:0 0 0 0;
+	margin:0 0 0 70px;
+}
+.dropdown-menu>table>thead>ul>li:hover{
+	color:#dd851e !important;
+}
+.ta1{
+	line-height:2.0;
+	padding:0px 100px 0 0;
+}
+.hotel1{
+	padding:0px 0 0 70px;
+	margin:0px 0 0 0;
+	color:#545554;
+	font-size:55px;
+	font-family:Wasted Vindey;
+}
+.hotel2{
+	color:#545554;
+}
+.hotel2>h4:hover{
+	color:#dd851e;
+}
+.our{
+	font-size:50px;
+	font-family:Wasted Vindey;
+}
+.img1{
+	padding:30px 0 0px 40px;
+}
+.a1{
+	border-radius:15px;
+}
+@media only screen and (max-width:767px)
+{
+	.a1
+	{
+	}
+}
+.a2{
+	font-size:30px;
+	font-family:Wasted Vindey;
+	padding:0 0 50px 0;
+}
+.a3{
+	text-align:center;
+	margin:0px 0 0 0;
+	font-size:55px;
+	font-family:Wasted Vindey;
+}
+.a4{
+	text-align:center;
+}
+.b1{
+	border-radius:15px;
+}
+.b2{
+	font-size:25px;
+	font-family:Wasted Vindey;
+}
+.bo6{
+	margin:-25px 20px 0 30px;
+	background-color:rgba(255, 255, 255, 2);
+	padding:15px 0 15px 25px;
+	z-index:1;
+	position:relative;
+	box-shadow:0px 0px 2px 0;
+}
+.bk{
+	background-color:#dd861f;
+	border-radius:20px;
+	padding:7px 10px 7px 60px;
+	margin:0 25px 0 0px;
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing:3px;
+}
+.set{
+	outline:none;
+	border:hidden;
+	margin:0 0px 0 0px;
+}
+.c1{
+	font-size:55px;
+	font-family:Wasted Vindey;
+	text-align:center;
+	margin:50px 0px 50px 0;
+}
+.d1{
+	border-radius:15px;
+}
+.d2{
+	font-size:15px;
+	font-family:Wasted Vindey;
+	padding:0 0 0 0px;
+	margin:0 0 0 0px;
+}
+.e1{
+	border-radius:270px 270px 0 0;
+	margin:180px 0 80px 60px;
+	background-color:rgba(239, 191, 67, 0.52);
+	padding:16px 16px 0 16px;
+}
+.e2{
+	margin:180px 0 0 0;
+}
+.e3{
+	letter-spacing:4.5px;
+	border-top:solid rgba(239, 191, 67, 0.52);
+	border-bottom:solid rgba(239, 191, 67, 0.52);
+	border-width:thin;
+	padding:7px 0 7px 0;
+	margin:0 280px 0 0px;
+}
+.e4{
+	font-size:50px;
+	font-family:Wasted Vindey;
+	letter-spacing:2px;
+}
+.e5{
+	line-height:1.8;
+}
+.arc{
+	background-color:#f8f9fa;
+}
+.f1{
+	margin:-300px 0 0 0px;
+	color:red;
+}
+@media only screen and (max-width:767)
+{
+	.xo1
+	{
+		height:500px;
+	}
+}
+.f2{
+	font-family:Wasted Vindey;
+	color:;
+}
+.exp{
+	padding:2px 0px 2px 30px;
+	margin:40px 550px 0 30px;
+	background-color:#dd861f;
+	border-radius:20px;
+}
+.g1{
+	margin:140px 0px 0 30px;
+	font-size:55px;
+	font-family:Wasted Vindey;
+}
+.g2{
+	margin:0 0 0 30px;
+}
+.g3{
+	padding:2px 0px 2px 35px;
+	margin:40px 130px 0 30px;
+	border:solid #dd861f;
+	border-width:thin;
+	border-radius:20px;
+	color:#dd861f;
+}
+.g4{
+	margin:40px 0 0 0;
+	border-radius:15px;
+	
+}
+.g5{
+	font-family:Wasted Vindey;
+}
+.t1{
+	font-family:Wasted Vindey;
+	font-size:55px;
+	margin:0 0 50px 0;
+}
+.r1{
+	font-family:Wasted Vindey;
+	font-size:20px;
+	font-weight:bold;
+	margin:0 0 20px 0;
+}
+.r2{
+	border-right:2px solid black;
+	border-width:thin;
+	height:210px;
+}
+.r3{
+	border:solid;
+	border-width:thin;
+	border-radius:20px;
+	color:#dd861f;
+	padding:7px 15px 7px 15px;
+	margin:0px 0px 0 0px;
+}
+.m1{
+	font-family:Wasted Vindey;
+	font-size:55px;
+}
+.m2{
+	font-family:Wasted Vindey;
+	font-size:25px;
+}
+.y1{
+	font-family:Wasted Vindey;
+	margin:100px 0 0 50px;
+}
+.y2{
+	outline:none;
+	border:none;
+	border-bottom:solid #dd861f;
+	border-width:thin;
+}
+.y3{
+	font-size:16px;
+	background-color:#dd861f;
+	padding:7px 25px 7px 25px;
+	border-radius:20px;
+	margin:0 0 0 45px;
+}
+@media only screen and (max-width:767)
+{
+	.ig{
+		margin:0 0 70px 0;
+		display:flex;
+		flex-wrap: wrap;
+		width:100%;
+		justify-content:space-around;
+	}
+}
+.end{
+
+	background-color:#444;
+	width:100%;
+	color:white;
+	padding:15px 0 0 0;
+	margin:0 0 0 0;
+}
+.y5{
+	list-style-type: none;
+	font-size:20px;
+}
+.y6{
+	font-size:30px;
+}
+.z1{
+	background-color:red;
+}
+.ab1{
+	font-family:Wasted Vindey;
+	font-size:55px;
+	margin:60px 0 20px 70px;
+}
+.ab2{
+	margin:0 0 10px 70px;
+}
+.img1{
+	margin:-30px 0 0 60px;
+}
+@media only screen and (max-width:767)
+{
+	.img2
+	{
+		border-radius:30px;
+	}
+}
+.ba{
+	font-family:Wasted Vindey;
+}
+.po1{
+	border-radius:10px;
+	margin:0 0 20px 0;
+}
+.po2{
+	margin:30px 0 0 20px;
+}
+.ba1{
+	font-family:Wasted Vindey;
+	margin:0 0 0 80px;
+}
+.end1{
+	margin:50px 0 0px 100px;
+	background-color:green;
+}
+.end3{
+	background-color:green;
+}
+.si1{
+	text-align:center;
+	font-family:Wasted Vindey;
+}
+.form-controls{
+	padding:10px 400px 10px 15px;
+	
+}
+.form-controls1{
+	padding:10px 50px 10px 50px;
+	border-radius:15px;
+	background-color:#dd861f;
+	color:white;
+	
+}
+.para1{
+
+}
+.form-controls4{
+	
+}
+.arc1{
+	background-color:#f8f9fa;
+	margin:0 0 0px 0;
+}
+.sel{
+	margin:40px 0 60px 80px;
+	color:#dd861f;
+}
+.sel1{
+	outline:none;
+	border:hidden;
+	border-bottom:2px solid;
+	
+}
+.con{
+	margin:0 0px 50px 20px;
+	background-color:#f8f9fa;
+	padding:5px 0 20px 0px;
+}
+.con1{
+	font-family:Wasted Vindey;
+	font-size:55px;
+}
+.im{
+	margin:0 20px 0 20px;
+}
+.im1{
+	border-radius:20px;
+	margin:0 0 50px 0;
+}
+.im{
+	font-family:Wasted Vindey;
+}
+.km{
+	border:solid ;
+	border-width:thin;
+	border-radius:15px;
+	color:#dd861f;
+	padding:7px 15px 7px 15px;
+}
+.n2>ul>li>:hover{
+	color:grey !important;
+}
+.spe{
+	
+	margin:-200px 0 0px 0;
+}
+@media screen and (min-width:412px){
+	
+	.spe1{
+	position:relative;
+	
+	}
+}
+.ghh1{
+	border-radius:20px;
+}
+@media only screen and (max-width:767px)
+{
+	.s11
+	{
+		height:350px;
+	}
+	.rr3
+	{
+		font-size:12px;
+	}
+	
+		
+}
+.rr3
+{
+	margin-top:-280px;
+	color:white;
+	font-family:"Georgia",serif;
+}
+.bbb1
+	{
+	border:solid ;
+	border-width:thin;
+	padding:7px 15px 7px 15px;
+	border-radius:10px;
+	background-color:#dd861f;
+	color:white;
+}
+
